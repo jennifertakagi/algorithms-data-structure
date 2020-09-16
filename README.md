@@ -41,7 +41,9 @@ SSH URLs provide access to a Git repository via SSH, a secure protocol. If you h
 
 Run the following command in order to test the application in a development environment:
 
-```npm run dev:watch```
+```cd exercises```
+```jest nameFolder/test.js```
+
 
 # :postbox: Faq
 
