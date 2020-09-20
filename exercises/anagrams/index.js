@@ -10,12 +10,6 @@
     anagrams('Hi there', 'Bye there') --> False
 */
 
-function removeSpecialChars(str) {
-  return str.replace(/(?!\w|\s)./g, '')
-    .replace(/\s+/g, '')
-    .replace(/^(\s*)([\W\w]*)(\b\s*$)/g, '$2');
-}
-
 function anagrams(stringA, stringB) {
   return cleanString(stringA) === cleanString(stringB);
 }
