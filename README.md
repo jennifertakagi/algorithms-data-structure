@@ -35,6 +35,8 @@ SSH URLs provide access to a Git repository via SSH, a secure protocol. If you h
 
 **Install dependencies**
 
+```cd exercises```
+
 ```npm install```
 
 # :runner: Testing your code
@@ -42,6 +44,7 @@ SSH URLs provide access to a Git repository via SSH, a secure protocol. If you h
 Run the following command in order to test the application in a development environment:
 
 ```cd exercises```
+
 ```jest nameFolder/test.js```
 
 
