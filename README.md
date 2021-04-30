@@ -20,7 +20,7 @@
   <h3 align="center">Algorithms & Data Structure with JavaScript</h3>
 
   <p align="center">
-    Companion repo to [The Coding Interview Bootcamp: Algorithms + Data Structures!
+    Companion repo to The Coding Interview Bootcamp: Algorithms + Data Structures!
     <br />
     <a href="https://github.com/jennifertakagi/algorithms-data-structure"><strong>Explore the docs »</strong></a>
     <br />
